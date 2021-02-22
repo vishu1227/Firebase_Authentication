@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "firebase_authentication",
+  "version": "1.0.0",
+  "description": "FirebaseTOTP",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vishu1227/Firebase_Authentication.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishu1227/Firebase_Authentication/issues"
+  },
+  "homepage": "https://github.com/vishu1227/Firebase_Authentication#readme"
+}
